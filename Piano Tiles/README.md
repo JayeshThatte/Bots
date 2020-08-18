@@ -33,4 +33,4 @@ If you have any ideas feel free to modify the code.
 
 ## Some Highscores
 
-![RushMode](Images/PianoTiles/Rushmodehighscore.PNG)
+![RushMode](/Images/PianoTiles/Rushmodehighscore.PNG)
